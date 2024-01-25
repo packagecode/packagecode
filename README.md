@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi there 👋 I'm shihab uddin
 
-<!--
-**packagecode/packagecode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Full Stack Developer](./shihab.jpeg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me
+---
+__As a developer, last 5 years I've specialized in PHP and Laravel, accumulating four years of Laravel experience. I'm well-versed in full-stack development, including Node.js, Vue.js, and React.js. My database expertise extends to MySQL and MongoDB. This background equips me to contribute effectively to diverse web development projects.__
+
+### My Skills
+---
+
+- PHP
+- JavaScript
+- jQuery
+- MySQL
+- MongoDB
+- Laravel
+- CakePHP
+- Vue js
+- Reacl Js
+- Angular Js
+- Bootstrap
+- Html & Css
+- Bootstrap
+- etc.
+
+### Connect with me
+---
+[Linkedin](https://www.linkedin.com/in/sihab143/) 
+
+
+Thanks & Best Regards For Visiting My Profile
