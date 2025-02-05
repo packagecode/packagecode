@@ -5,7 +5,7 @@
 
 ### About me
 ---
-__As a developer, last 5 years I've specialized in PHP and Laravel, accumulating four years of Laravel experience. I'm well-versed in full-stack development, including Node.js, Vue.js, and React.js. My database expertise extends to MySQL and MongoDB. This background equips me to contribute effectively to diverse web development projects.__
+__As a developer, last 7 years I've specialized in PHP and Laravel, accumulating four years of Laravel experience. I'm well-versed in full-stack development, including Node.js, Vue.js, and React.js. My database expertise extends to MySQL and MongoDB. This background equips me to contribute effectively to diverse web development projects.__
 
 ### My Skills
 ---
